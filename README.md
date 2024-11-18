@@ -11,5 +11,14 @@ SafeLine 社区版社区版只支持 1000 条 ip ，本项目将中国 IP 列表
 [USTC IP Blacklist](https://blackip.ustc.edu.cn/intro.php)
 ## 使用
 ### ipv4
+- [china_ip_part_1.txt](https://cdn.jsdelivr.net/gh/hexgu/Rule-Snippe@main/china_ip_part_1.txt)
+- [china_ip_part_2.txt](https://cdn.jsdelivr.net/gh/hexgu/Rule-Snippe@main/china_ip_part_2.txt)
+- [china_ip_part_3.txt](https://cdn.jsdelivr.net/gh/hexgu/Rule-Snippe@main/china_ip_part_3.txt)
+- [china_ip_part_4.txt](https://cdn.jsdelivr.net/gh/hexgu/Rule-Snippe@main/china_ip_part_4.txt)
+- [china_ip_part_5.txt](https://cdn.jsdelivr.net/gh/hexgu/Rule-Snippe@main/china_ip_part_5.txt)
+
 
 ### ipv6
+- [china_ip_ipv6_part_1.txt](https://cdn.jsdelivr.net/gh/hexgu/Rule-Snippe@main/china_ip_ipv6_part_1.txt)
+- [china_ip_ipv6_part_2.txt](https://cdn.jsdelivr.net/gh/hexgu/Rule-Snippe@main/china_ip_ipv6_part_2.txt)
+
